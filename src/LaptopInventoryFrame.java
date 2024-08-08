@@ -1,4 +1,4 @@
-//Name: Melic Li
+//Name: Ryan Qi
 //Date: May 14, 2024
 //Description: Shows the user all the computers, with options that can sort the computers by certain categories, like price and rating.
 //Major Skills: Displaying images, sorting arrays, buttons, radio buttons
